@@ -21,7 +21,7 @@
     
 ### HOW TO USE IT (with full installation process)
     1. To install package
-    composer require yaap/theme
+    composer require yaap/theme "2.4"
     
     If you want to give custom path (It is optional -> if you want to overwrite default config.)
     php artisan vendor:publish --provider="YAAP\Theme\ThemeServiceProvider"
